@@ -1,0 +1,20 @@
+{
+    "short_name": "WC",
+    "name": "WC",
+    "icons": [
+      {
+        "src": "/images/log-cabin-icon-11-128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "/images/log-cabin-icon-11-512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "pwa.html",
+    "background_color": "#d3d3d3",
+    "display": "standalone",
+    "theme_color": "#ffbb00"
+  } 
